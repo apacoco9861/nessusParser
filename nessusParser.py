@@ -26,7 +26,7 @@ import collections
 
 # Software version
 PROG_VER    =    "0.2"
-PROG_NAME   =    "evo1_nessusParser.py"
+PROG_NAME   =    "nessusParser.py"
 
 class nessus_parser:
     """
